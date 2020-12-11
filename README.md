@@ -1,5 +1,4 @@
-# Data-Modeling-with-Postgres
-# Music Streaming Sparkify Postgres ETL
+# Sparkify Postgres ETL
 
 This project consists of putting into practice the following concepts:
 - Data modeling with Postgres
@@ -63,3 +62,5 @@ A number of steps clean the data and reduce the size of the database by removing
 1. Run create_tables.py from terminal to set up the database and tables.
 2. Run etl.py from terminal to process and load data into the database.
 3. Launch test.ipynb to run validation and example queries.
+
+
