@@ -1,5 +1,5 @@
 # Data-Modeling-with-Postgres
-# Sparkify Postgres ETL
+# Music Streaming Sparkify Postgres ETL
 
 This project consists of putting into practice the following concepts:
 - Data modeling with Postgres
